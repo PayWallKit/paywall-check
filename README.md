@@ -28,6 +28,6 @@ Run it only against apps you own. It sends one unsigned POST and one GET; nothin
 
 ## Want the full version?
 
-Paywall Kit ($14.99) has the complete rules file, 9 prompts, type-checked Next.js + Supabase reference code (verified, idempotent webhook, portal, entitlements, RLS migration), a Stripe CLI test script for failure paths and retries, and a go-live checklist: https://paywall-kit.pages.dev
+Paywall Kit ($14.98) has the complete rules file, 9 prompts, type-checked Next.js + Supabase reference code (verified, idempotent webhook, portal, entitlements, RLS migration), a Stripe CLI test script for failure paths and retries, and a go-live checklist: https://paywall-kit.pages.dev
 
 MIT licensed. Not affiliated with Stripe.
